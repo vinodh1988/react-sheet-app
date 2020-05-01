@@ -1,0 +1,23 @@
+#log{
+    background-color: rgb(133, 115, 115);
+    color: white;
+    position: relative;
+    height: 50px;
+    padding: 10px;
+}
+
+#signin{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    color: white;
+    text-decoration: underline;
+}
+
+#logout{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    color: white;
+    text-decoration: underline;  
+}
